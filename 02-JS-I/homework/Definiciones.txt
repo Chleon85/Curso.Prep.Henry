@@ -1,0 +1,5 @@
+Variables: elementos definidos de una forma determinada a los que podemos asignar un valor y podremos reasignarle otro en cualquier momento, que se almacenan y podemos llamar en cualquier momento para su uso.
+Strings: cadenas de caracteres unidos, se definen entre '' o "".
+Funciones (argumentos, 'return'): son objetos que podemos invocar o llamar. Se utilizan para relacionar las variables que definimos, ya sea operando con ellas, comparandolas entre si, etc, para obtener un resultado. Los argumentos son los elementos con los cuales trabaja la funcion. Return es la devolución de la función una vez realizada la tarea para la que fue programada.
+Declaraciones if: Sirve para comparar elementos y devolver resultados en función de si se cumple o no determinado requisito. 
+Valores booleanos: El campo de los valores booleanos se restringe a dos elementos (verdadero o falso). 
