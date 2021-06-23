@@ -1,0 +1,4 @@
+for: expresion utilizada para formar un bucle, en el cual se ejecutan las acciones siempre y cuando se cumpla determinado requisito, definido tambièn por nosotros.
+&&: es un operador lógico, utilizado para analizar dos condiciones, devuelve el valor true si ambas se cumplen. Si al menos una de ellas no se cumple, el esultad es false.
+||: es otro operador lógico, en este caso devuelve el valor true si al menos una de las condiciones es true, de lo contrario devuelve false. 
+!: es un operador lógico cuyo significado es NO, es decir, ubicado antes de otro operador devuelve el resultado opuesto al valor que establece el operador que al cual precede. 
