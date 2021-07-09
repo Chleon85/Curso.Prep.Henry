@@ -1,0 +1,1 @@
+Arrays: Arreglos o matrices, es un tipo de variable en la cual podemos almacenar mas de un elemento y acceder a cualquiera de ellos en cualquier momento. 
